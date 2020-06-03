@@ -208,8 +208,12 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     
+    
+}
+.footerp  {
+    margin-left: 20px;
+}
+.footer h2 {
+    font-size: 18px;
 }
 
-.footer h2 {
-    font-size: 20px;
-}
